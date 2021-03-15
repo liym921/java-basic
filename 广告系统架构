@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T03:38:17.406Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="AoVk9oqOrEl9Gnybkqac" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T05:47:32.093Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="lEewhH93QnSE7XW0Ym3Y" version="14.4.8" type="github">
   <diagram id="0Qw9MNTkvJ4LFmSg4qcJ" name="第 1 页">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,13 +43,13 @@
         <mxCell id="-_TzCtd5-iSELs0m2n92-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#B3B3B3;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="670" y="170" width="140" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="-_TzCtd5-iSELs0m2n92-15" value="H5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;fontColor=#FFFFFF;strokeColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="-_TzCtd5-iSELs0m2n92-15" value="H5/小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;fontColor=#FFFFFF;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="260" y="89" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-_TzCtd5-iSELs0m2n92-16" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;fontColor=#FFFFFF;strokeColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="-_TzCtd5-iSELs0m2n92-16" value="APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;fontColor=#FFFFFF;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="380" y="89" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-_TzCtd5-iSELs0m2n92-17" value="APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;fontColor=#FFFFFF;strokeColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="-_TzCtd5-iSELs0m2n92-17" value="广告主系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;fontColor=#FFFFFF;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="504.5" y="89" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-_TzCtd5-iSELs0m2n92-18" value="统一网关" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3333FF;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -79,10 +79,10 @@
         <mxCell id="-_TzCtd5-iSELs0m2n92-28" value="广告页跳转管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3333FF;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="130" y="391" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-_TzCtd5-iSELs0m2n92-29" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3333FF;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="-_TzCtd5-iSELs0m2n92-29" value="广告分析管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3333FF;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="380" y="391" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-_TzCtd5-iSELs0m2n92-30" value="模板管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3333FF;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="-_TzCtd5-iSELs0m2n92-30" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3333FF;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="499.5" y="391" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-_TzCtd5-iSELs0m2n92-31" value="广告SSP平台系统架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
