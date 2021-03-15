@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T03:15:37.016Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="xDnzndfqFHT8SJnECzoS" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T03:19:11.138Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="cLoBis-3d7t4BJb4RjUK" version="14.4.8" type="github">
   <diagram id="0Qw9MNTkvJ4LFmSg4qcJ" name="第 1 页">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="70" y="510" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-_TzCtd5-iSELs0m2n92-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="280" width="140" height="280" as="geometry" />
+          <mxGeometry x="670" y="170" width="140" height="390" as="geometry" />
         </mxCell>
         <mxCell id="-_TzCtd5-iSELs0m2n92-15" value="H5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="89" width="80" height="40" as="geometry" />
@@ -61,8 +61,8 @@
         <mxCell id="-_TzCtd5-iSELs0m2n92-20" value="Restful接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="190" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-_TzCtd5-iSELs0m2n92-22" value="媒介" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="290" width="40" height="20" as="geometry" />
+        <mxCell id="-_TzCtd5-iSELs0m2n92-22" value="媒介系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="180" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-_TzCtd5-iSELs0m2n92-24" value="广告位管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="305" width="90" height="40" as="geometry" />
@@ -108,6 +108,18 @@
         </mxCell>
         <mxCell id="-_TzCtd5-iSELs0m2n92-38" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="405" y="495" width="95" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-_TzCtd5-iSELs0m2n92-39" value="客舱容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-_TzCtd5-iSELs0m2n92-40" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-_TzCtd5-iSELs0m2n92-41" value="H5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="390" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-_TzCtd5-iSELs0m2n92-42" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="480" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
