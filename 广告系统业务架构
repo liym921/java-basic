@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T09:59:34.273Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="ElG2ZAh2MgQsM1CIRMHS" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T10:04:13.673Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="DLT3LxxqorHYb-lIEZA5" version="14.4.8" type="github">
   <diagram id="cY49PZDnkE96xQxfFxiF" name="第 1 页">
     <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
         <mxCell id="y92NNoidBhvDGl5uL-kf-102" value="统一网关" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3E8EFF;fillColor=#3E8EFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="461" y="515" width="90" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="y92NNoidBhvDGl5uL-kf-104" value="客舱服务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3E8EFF;fillColor=#3E8EFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="y92NNoidBhvDGl5uL-kf-104" value="客舱服务平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3E8EFF;fillColor=#3E8EFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="588" y="515" width="90" height="32" as="geometry" />
         </mxCell>
         <mxCell id="y92NNoidBhvDGl5uL-kf-106" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CCCCCC;fontSize=18;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y92NNoidBhvDGl5uL-kf-101" target="y92NNoidBhvDGl5uL-kf-2">
